@@ -1,0 +1,64 @@
+Rotary Switch;
+[A6RS-162RF Rotary Switch SMD OMRON](http://download.ia.omron.com/download/page/A6RS_162RF_P/ECB)
+[A6R-161RS Rotary Switch DIP OMRON]	(http://download.ia.omron.com/download/page/A6RV_161RF/ECB)
+
+
+3.5mm jack SMD:
+[Mouser part](https://www.digikey.com/product-detail/en/cui-inc/SJ-3523-SMT-TR/CP-3523SJCT-ND/669704)
+[Footprint]https://www.snapeda.com/parts/SJ-3523-SMT-TR/CUI%20Inc./view-part/?ref=digikey
+[3D model](https://www.cui.com/product/resource/snapeda3dmodel/sj-3523-smt-tr)
+
+https://www.snapeda.com/parts/35RASMT2BHNTRX/Switchcraft%20Inc./view-part/?ref=search&t=JACK%203.5MM
+
+
+Through hole (very similar to the we use NOW):
+
+https://www.cui.com/product/resource/snapeda3dmodel/sj1-3524n
+
+
+Optocouple TLP127
+3D
+https://www.snapeda.com/parts/TLP127/Toshiba/view-part/?ref=search&t=TLP127
+Datasheet:
+http://www.farnell.com/datasheets/1944154.pdf
+
+REPLACEMENT (same shape):
+https://www.mouser.es/ProductDetail/757-TLP187E
+
+https://www.mouser.es/datasheet/2/408/TLP187_datasheet_en_20180130-1134240.pdf
+
+3D model:
+https://3dwarehouse.sketchup.com/model/4c1d5c3d96f75e412c12ef9487fa87ee/SOIC-4
+
+DS2408
+3D
+https://www.snapeda.com/parts/DS2408S+T&R/Maxim%20Integrated/view-part/?ref=search&t=DS2408
+
+Camera 3D model:
+
+Free: https://3dwarehouse.sketchup.com/model/d1b8b499badb687c9afcf0a16afcd30e/SX-70
+
+https://3dsky.org/3dmodels/show/polaroid_sx_70_land_camera
+
+https://hum3d.com/3d-models/nissan-zeod-rc-2014/?humab=procent
+
+SOT-23-5 (regulador):
+https://3dwarehouse.sketchup.com/model/554d25a3d4ea4e4ee0efd216aebacdfe/SOT-23-OT-5-Lead
+
+0603 CAPACITOR:
+https://3dwarehouse.sketchup.com/model/d5d1cc18aeba88df714f760e9705fe95/C-0603
+
+0603 RESISTORS:
+https://3dwarehouse.sketchup.com/model/ad3f0520a118eb20714f760e9705fe95/R-0603
+
+SWITCHES:
+
+https://3dwarehouse.sketchup.com/model/uc040f632-5ff7-4527-a78b-c2336cb89990/SPDT-Switch-SMD
+
+https://3dwarehouse.sketchup.com/model/ucd2411dd-d0f2-4772-a166-5166b6408519/SPDT-SMD-switch
+
+set QTWEBENGINE_CHROMIUM_FLAGS=--enable-webgl-software-rendering eagle_SW_OpenGL.bat
+
+set QTWEBENGINE_CHROMIUM_FLAGS=–disable_chromium_framebuffer_multisample
+
+ eagle.exe
