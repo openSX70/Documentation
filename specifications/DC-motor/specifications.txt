@@ -1,0 +1,5 @@
+Mabuchi #FK-1505A
+9 VDC, 300 mA, 
+15,000 RPM, 2 oz/in torque. 
+Shaft 1/16" dia. x 3/16" long. 
+Motor size, 1-1/4"L x 7/8"W x 5/8"dp.
